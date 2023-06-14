@@ -248,7 +248,7 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": ".To enrol in this course you must have successfully completed COMP6710 and COMP6260 ; or be enrolled in Master of Computing (Advanced)"
+        "requisite and incompatibility": "To enrol in this course you must have successfully completed COMP6710 and COMP6260 ; or be enrolled in Master of Computing (Advanced)"
     },
     {
         "code": "COMP6363",

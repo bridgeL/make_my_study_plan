@@ -86,11 +86,26 @@
             let innerHTML = "";
             for (let k of Object.keys(d)) {
                 let v = d[k];
-                if (k == "terms") v = v.join(" / ");
-                innerHTML += `<div class="course">
-                    <div class="course-code">${k}</div>
-                    <div class="course-name">${v}</div>
-                </div>`
+                if (k == "terms") {
+                    let vv = v.join(" / ");
+                    let n = v.length;
+                    let n1 = v.filter(d => d.indexOf("Sem 1") >= 0).length;
+                    let n2 = v.filter(d => d.indexOf("Sem 2") >= 0).length;
+                    let s = "";
+                    if (n1 >= n / 3 && n2 >= n / 3) s = "Sem 1 / Sem 2";
+                    else if (n1 >= n / 3) s = "Sem 1";
+                    else s = "Sem 2";
+                    innerHTML += `<div class="course">
+                        <div class="course-code">${k}</div>
+                        <div class="course-name" title="${vv}">${s}</div>
+                    </div>`
+                }
+                else {
+                    innerHTML += `<div class="course">
+                        <div class="course-code">${k}</div>
+                        <div class="course-name" title="${v}">${v}</div>
+                    </div>`
+                }
             }
             element.innerHTML = innerHTML;
         }
