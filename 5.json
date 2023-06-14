@@ -1,0 +1,28 @@
+[
+    {
+        "type": "min",
+        "num": 1,
+        "range": [
+            "MATH6005",
+            "COMP6260"
+        ]
+    },
+    {
+        "type": "min",
+        "num": 4,
+        "range": [
+            "COMP6250",
+            "COMP6442",
+            "COMP6710",
+            "COMP8260"
+        ]
+    },
+    {
+        "type": "min",
+        "num": 1,
+        "range": [
+            "COMP8715",
+            "COMP8830"
+        ]
+    }
+]

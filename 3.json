@@ -1,0 +1,869 @@
+[
+    {
+        "code": "COMP6445",
+        "name": "Advanced Computing Research Methods",
+        "terms": [
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8620",
+        "name": "Advanced Topics in Artificial intelligence",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2015",
+            "Sem 2 2017",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP8539",
+        "name": "Advanced Topics in Computer Vision",
+        "terms": [
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8670",
+        "name": "Advanced Topics in Logic and Computation",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2015",
+            "Sem 2 2017",
+            "Sem 2 2019",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP8650",
+        "name": "Advanced Topics in Machine Learning",
+        "terms": [
+            "Sem 1 2019",
+            "Sem 2 2012",
+            "Sem 2 2014",
+            "Sem 2 2016",
+            "Sem 2 2018",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP6466",
+        "name": "Algorithms",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6720",
+        "name": "Art and Interaction Computing",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6320",
+        "name": "Artificial Intelligence",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP8880",
+        "name": "Computational Methods for Network Science",
+        "terms": [
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8610",
+        "name": "Computer Graphics",
+        "terms": [
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6331",
+        "name": "Computer Networks",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2012",
+            "Sem 1 2014",
+            "Sem 1 2016",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6300",
+        "name": "Computer Organisation and Program Execution",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6528",
+        "name": "Computer Vision",
+        "terms": [
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP8830",
+        "name": "Computing Internship",
+        "terms": [
+            "Sem 1 2023",
+            "Sem 2 2018",
+            "Sem 2 2023"
+        ],
+        "units": 12.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8715",
+        "name": "Computing Project",
+        "terms": [
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2018",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP8800",
+        "name": "Computing Research Project",
+        "terms": [
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2023",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2023"
+        ],
+        "units": 12.0,
+        "classification": "Research"
+    },
+    {
+        "code": "COMP8410",
+        "name": "Data Mining",
+        "terms": [
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP8430",
+        "name": "Data Wrangling",
+        "terms": [
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP6490",
+        "name": "Document Analysis",
+        "terms": [
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP8535",
+        "name": "Engineering Data Analytics",
+        "terms": [
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8820",
+        "name": "Exchange Program for Graduate Students in Computer Science",
+        "terms": [
+            "Sem 1 2023",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6260",
+        "name": "Foundations of Computing",
+        "terms": [
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6540",
+        "name": "Game Development",
+        "terms": [
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6464",
+        "name": "High Performance Scientific Computing",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2012",
+            "Sem 1 2014",
+            "Sem 1 2016",
+            "Sem 1 2018",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP6390",
+        "name": "Human-Computer Interaction",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP8755",
+        "name": "Individual Computing Project",
+        "terms": [
+            "Sem 1 2018",
+            "Sem 1 2023",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6261",
+        "name": "Information Theory",
+        "terms": [
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6420",
+        "name": "Introduction to Data Management, Analysis and Security",
+        "terms": [
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6670",
+        "name": "Introduction to Machine Learning",
+        "terms": [
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6262",
+        "name": "Logic",
+        "terms": [
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8110",
+        "name": "Managing Software Projects in a System Context",
+        "terms": [
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2016"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP6340",
+        "name": "Networked Information Systems",
+        "terms": [
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8420",
+        "name": "Neural Networks, Deep Learning and Bio-inspired Computing",
+        "terms": [
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2016",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 2 2010",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP6330",
+        "name": "Operating Systems Implementation",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2012",
+            "Sem 2 2014",
+            "Sem 2 2016",
+            "Sem 2 2018",
+            "Sem 2 2020",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP8691",
+        "name": "Optimisation",
+        "terms": [
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8300",
+        "name": "Parallel Systems",
+        "terms": [
+            "Sem 1 2011",
+            "Sem 1 2013",
+            "Sem 1 2015",
+            "Sem 1 2017",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP6361",
+        "name": "Principles of Programming Languages",
+        "terms": [
+            "Sem 2 2013",
+            "Sem 2 2015",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2021",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP6250",
+        "name": "Professional Practice 1",
+        "terms": [
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8260",
+        "name": "Professional Practice 2",
+        "terms": [
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2023",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6730",
+        "name": "Programming for Scientists",
+        "terms": [
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6715",
+        "name": "Project Work in Computing",
+        "terms": [
+            "Sem 1 2023",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6240",
+        "name": "Relational Databases",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8603",
+        "name": "Research Project",
+        "terms": [
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2023"
+        ],
+        "units": 12.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8604",
+        "name": "Research Project",
+        "terms": [
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6442",
+        "name": "Software Construction",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6120",
+        "name": "Software Engineering",
+        "terms": [
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP8350",
+        "name": "Sound and Music Computing",
+        "terms": [
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6470",
+        "name": "Special Topics in Computing",
+        "terms": [
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2021",
+            "Sem 1 2023",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2021",
+            "Sem 2 2022"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP8600",
+        "name": "Statistical Machine Learning",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced"
+    },
+    {
+        "code": "COMP6710",
+        "name": "Structured Programming",
+        "terms": [
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6310",
+        "name": "Systems, Networks and Concurrency",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6363",
+        "name": "Theory of Computation",
+        "terms": [
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2016",
+            "Sem 1 2018",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    },
+    {
+        "code": "COMP6780",
+        "name": "Web Development and Design",
+        "terms": [
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2023",
+            "Sem 2 2022"
+        ],
+        "units": 6.0,
+        "classification": "Transitional"
+    }
+]

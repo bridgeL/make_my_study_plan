@@ -1,0 +1,242 @@
+[
+    {
+        "code": "ARTIF",
+        "name": "Artificial Intelligence",
+        "courses": [
+            "COMP6262",
+            "COMP6320",
+            "COMP8620",
+            "COMP8691",
+            "COMP8670"
+        ],
+        "constraint": [
+            {
+                "type": "min",
+                "num": 4,
+                "range": [
+                    "COMP6262",
+                    "COMP6320",
+                    "COMP8620",
+                    "COMP8691",
+                    "COMP8670"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "CMSY",
+        "name": "Computer Systems",
+        "courses": [
+            "COMP6310",
+            "COMP6331",
+            "ENGN6213",
+            "COMP6330",
+            "COMP6361",
+            "COMP6464",
+            "COMP8300",
+            "COMP8330"
+        ],
+        "constraint": [
+            {
+                "type": "max",
+                "num": 2,
+                "range": [
+                    "COMP6310",
+                    "COMP6331",
+                    "ENGN6213"
+                ]
+            },
+            {
+                "type": "min",
+                "num": 2,
+                "range": [
+                    "COMP6330",
+                    "COMP6361",
+                    "COMP6464",
+                    "COMP8300",
+                    "COMP8330"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "COMP",
+        "name": "Computational Foundations",
+        "courses": [
+            "COMP6261",
+            "COMP6262",
+            "COMP6466",
+            "COMP6361",
+            "COMP6363",
+            "COMP8460",
+            "COMP8670",
+            "MATH6114",
+            "MATH6203"
+        ],
+        "constraint": [
+            {
+                "type": "max",
+                "num": 2,
+                "range": [
+                    "COMP6261",
+                    "COMP6262",
+                    "COMP6466"
+                ]
+            },
+            {
+                "type": "min",
+                "num": 2,
+                "range": [
+                    "COMP6361",
+                    "COMP6363",
+                    "COMP8460",
+                    "COMP8670",
+                    "MATH6114",
+                    "MATH6203"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "DTSC",
+        "name": "Data Science",
+        "courses": [
+            "COMP8410",
+            "COMP8430",
+            "COMP6490",
+            "COMP6320",
+            "COMP8420",
+            "COMP8600",
+            "COMP8620",
+            "COMP8650"
+        ],
+        "constraint": [
+            {
+                "type": "min",
+                "num": 3,
+                "range": [
+                    "COMP8410",
+                    "COMP8430",
+                    "COMP6490"
+                ]
+            },
+            {
+                "type": "min",
+                "num": 1,
+                "range": [
+                    "COMP6320",
+                    "COMP8420",
+                    "COMP8600",
+                    "COMP8620",
+                    "COMP8650"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "HCCM",
+        "name": "Human-Centred and Creative Computing",
+        "courses": [
+            "COMP6390",
+            "COMP6720",
+            "COMP6540",
+            "COMP8350",
+            "COMP8610",
+            "COMP8420"
+        ],
+        "constraint": [
+            {
+                "type": "min",
+                "num": 1,
+                "range": [
+                    "COMP6390"
+                ]
+            },
+            {
+                "type": "min",
+                "num": 1,
+                "range": [
+                    "COMP6720",
+                    "COMP6540"
+                ]
+            },
+            {
+                "type": "min",
+                "num": 2,
+                "range": [
+                    "COMP8350",
+                    "COMP8610",
+                    "COMP8420"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "MCHL",
+        "name": "Machine Learning",
+        "courses": [
+            "COMP6261",
+            "COMP6490",
+            "COMP6670",
+            "COMP8420",
+            "COMP8600",
+            "COMP8650",
+            "COMP8880",
+            "COMP6528"
+        ],
+        "constraint": [
+            {
+                "type": "min",
+                "num": 4,
+                "range": [
+                    "COMP6261",
+                    "COMP6490",
+                    "COMP6670",
+                    "COMP8420",
+                    "COMP8600",
+                    "COMP8650",
+                    "COMP8880",
+                    "COMP6528"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "PCOM",
+        "name": "Professional Computing",
+        "courses": [
+            "COMP6120",
+            "COMP8110",
+            "COMP6240",
+            "COMP6420",
+            "COMP6331",
+            "COMP6340"
+        ],
+        "constraint": [
+            {
+                "type": "min",
+                "num": 2,
+                "range": [
+                    "COMP6120",
+                    "COMP8110"
+                ]
+            },
+            {
+                "type": "min",
+                "num": 2,
+                "range": [
+                    "COMP6240",
+                    "COMP6420"
+                ]
+            },
+            {
+                "type": "min",
+                "num": 2,
+                "range": [
+                    "COMP6331",
+                    "COMP6340"
+                ]
+            }
+        ]
+    }
+]
