@@ -8,7 +8,7 @@
     <style>
         body {
             margin: 0;
-            word-break: break-all;
+            word-break: break-word;
         }
 
         #main {
@@ -25,6 +25,34 @@
         #search {
             grid-column: 1 / 2;
             grid-row: 1 / 2;
+        }
+
+        #search input {
+            width: calc(100% - 24px);
+            height: 40px;
+            font-size: 20px;
+            margin-bottom: 20px;
+            padding: 0 10px;
+        }
+
+        #spec-list {
+            display: flex;
+            flex-direction: row;
+            gap: 10px;
+        }
+
+        .spec {
+            cursor: pointer;
+            border: 1px black solid;
+            padding: 5px;
+        }
+
+        .spec.dark {
+            background-color: #ddd;
+        }
+
+        .spec:hover {
+            background-color: #ddd;
         }
 
         #course-list {
@@ -68,20 +96,87 @@
         #course-info {
             grid-column: 1 / 2;
             grid-row: 4 / 6;
+            overflow: auto;
         }
     </style>
+
+</head>
+
+<body>
+    <div id="main">
+        <div id="search">
+            <input type="text" oninput="search()">
+            <div id="spec-list"></div>
+        </div>
+
+        <div id="course-list"></div>
+
+        <div id="study-plan">
+        </div>
+
+        <div id="constraint">
+
+        </div>
+
+        <div id="course-info"></div>
+    </div>
+
     <script>
         const all_data = {
             all_courses: [],
             show_courses: [],
             search_word: "",
-            select_code: ""
+            select_code: "",
+            select_spec: "",
+            all_specs: [],
         };
 
-        const select_course = (el) => {
-            all_data.select_code = el.querySelector(".course-code").innerHTML;
-            let d = all_data.all_courses.find(d => d.code == all_data.select_code);
+        const show_spec_info = () => {
+            let d = all_data.all_specs.find(d => d.code == all_data.select_spec);
+            let element = document.body.querySelector("#course-info");
+            let innerHTML = "";
+            for (let k of Object.keys(d)) {
+                let v = d[k];
+                if (k == "code") {
+                    innerHTML += `<div class="course">
+                        <div class="course-code">${k}</div>
+                        <div class="course-name"><a href="https://programsandcourses.anu.edu.au/specialisation/${v}-SPEC" target="_blank">${v}</a></div>
+                    </div>`
+                }
+                else if (k == "constraint") {
+                    let s = ""
+                    for (let vv of v) {
+                        s += "<div>"
+                        if (vv.type == "max") s += "maximum "
+                        else s += "minimum  "
+                        s += `select ${vv.num} of `
+                        s += vv.range.join(" / ")
+                        s += "</div>"
+                    }
+                    innerHTML += `<div class="course">
+                        <div class="course-code">${k}</div>
+                        <div class="course-name" title="${s}">${s}</div>
+                    </div>`
+                }
+                else if (k == "courses") {
+                    v = v.join(" / ")
+                    innerHTML += `<div class="course">
+                        <div class="course-code">${k}</div>
+                        <div class="course-name" title="${v}">${v}</div>
+                    </div>`
+                }
+                else {
+                    innerHTML += `<div class="course">
+                        <div class="course-code">${k}</div>
+                        <div class="course-name" title="${v}">${v}</div>
+                    </div>`
+                }
+            }
+            element.innerHTML = innerHTML;
+        }
 
+        const show_course_info = () => {
+            let d = all_data.all_courses.find(d => d.code == all_data.select_code);
             let element = document.body.querySelector("#course-info");
             let innerHTML = "";
             for (let k of Object.keys(d)) {
@@ -100,6 +195,19 @@
                         <div class="course-name" title="${vv}">${s}</div>
                     </div>`
                 }
+                else if (k == "code") {
+                    innerHTML += `<div class="course">
+                        <div class="course-code">${k}</div>
+                        <div class="course-name"><a href="https://programsandcourses.anu.edu.au/2023/course/${v}" target="_blank">${v}</a></div>
+                    </div>`
+                }
+                else if (k == "relative spec") {
+                    v = v.join(" / ");
+                    innerHTML += `<div class="course">
+                        <div class="course-code">${k}</div>
+                        <div class="course-name" title="${v}">${v}</div>
+                    </div>`
+                }
                 else {
                     innerHTML += `<div class="course">
                         <div class="course-code">${k}</div>
@@ -110,20 +218,77 @@
             element.innerHTML = innerHTML;
         }
 
+        const select_course = (el) => {
+            all_data.select_code = el.querySelector(".course-code").innerHTML;
+            show_course_info();
+        }
+
+        const select_spec = (el) => {
+            if (all_data.select_spec == el.innerHTML) all_data.select_spec = "";
+            else {
+                all_data.select_spec = el.innerHTML;
+                show_spec_info();
+            }
+            show_all_specs();
+            filter_courses();
+        }
+
         const get_all_data = () => {
-            fetch("3.json")
+            fetch("3.json", {
+                'pragma': 'no-cache',
+                'cache-control': 'no-cache'
+            })
                 .then((res) => res.json())
                 .then((data) => {
-                    data = data.sort(function (a, b) { return a.code - b.code });
                     all_data.all_courses = data;
                     filter_courses();
                 })
+
+            fetch("4.json", {
+                'pragma': 'no-cache',
+                'cache-control': 'no-cache'
+            })
+                .then((res) => res.json())
+                .then((data) => {
+                    all_data.all_specs = data;
+                    show_all_specs();
+                })
+
+            let element = document.body.querySelector("#study-plan");
+            let innerHTML = "";
+            for (let k = 0; k < 4; k++) {
+                innerHTML += "<div class=\"sem\">"
+                for (let i = 0; i < 4; i++) {
+                    innerHTML += "<div class=\"study-cube\">1</div>"
+                }
+                innerHTML += "</div>"
+            }
+            element.innerHTML = innerHTML;
+
+        }
+
+        const show_all_specs = () => {
+            let element = document.body.querySelector("#spec-list");
+            let innerHTML = "";
+            all_data.all_specs.forEach(d => {
+                let v = "";
+                if (d.code == all_data.select_spec) v = "dark";
+                innerHTML += `<div class="spec ${v}" onclick="select_spec(this)" title="${d.name}">${d.code}</div>`
+            })
+
+            element.innerHTML = innerHTML;
         }
 
         const filter_courses = () => {
             all_data.show_courses = all_data.all_courses.filter(d => {
                 if ((d.code + d.name).toLowerCase().indexOf(all_data.search_word.toLowerCase()) == -1)
                     return false;
+
+                if (all_data.select_spec) {
+                    let dd = all_data.all_specs.find(d => d.code == all_data.select_spec);
+                    if (dd.courses.indexOf(d.code) == -1) return false;
+                }
+
                 return true;
             })
 
@@ -146,29 +311,8 @@
             filter_courses();
         }
 
-        const test = () => {
-            console.log(all_data.show_courses)
-        }
-
         get_all_data();
     </script>
-</head>
-
-<body>
-    <div id="main">
-        <div id="search">
-            <input type="text" oninput="search()">
-            <button onclick="test()">test</button>
-        </div>
-
-        <div id="course-list"></div>
-
-        <div id="study-plan"></div>
-
-        <div id="constraint"></div>
-
-        <div id="course-info"></div>
-    </div>
 </body>
 
 </html>

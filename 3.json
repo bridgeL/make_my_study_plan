@@ -12,7 +12,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have successfully completed or be currently studying COMP6442 - Software Construction. Incompatible with COMP2120 - Software Engineering."
+        "requisite and incompatibility": "To enrol in this course you must have successfully completed or be currently studying COMP6442 - Software Construction. Incompatible with COMP2120 - Software Engineering.",
+        "relative spec": [
+            "Professional Computing"
+        ]
     },
     {
         "code": "COMP6240",
@@ -35,7 +38,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "You are not able to enrol in this course if you have successfully completed COMP2400 . Incompatible with COMP7240 ."
+        "requisite and incompatibility": "You are not able to enrol in this course if you have successfully completed COMP2400 . Incompatible with COMP7240 .",
+        "relative spec": [
+            "Professional Computing"
+        ]
     },
     {
         "code": "COMP6250",
@@ -57,7 +63,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must be studying the Master of Computing or Master of Machine Learning and Computer Vision programs."
+        "requisite and incompatibility": "To enrol in this course you must be studying the Master of Computing or Master of Machine Learning and Computer Vision programs.",
+        "relative spec": []
     },
     {
         "code": "COMP6260",
@@ -77,7 +84,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "Incompatible with COMP1600"
+        "requisite and incompatibility": "Incompatible with COMP1600",
+        "relative spec": []
     },
     {
         "code": "COMP6261",
@@ -95,7 +103,11 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "You cannot enrol in this course if you have completed COMP2610 or ENGN8534 ."
+        "requisite and incompatibility": "You cannot enrol in this course if you have completed COMP2610 or ENGN8534 .",
+        "relative spec": [
+            "Computational Foundations",
+            "Machine Learning"
+        ]
     },
     {
         "code": "COMP6262",
@@ -113,7 +125,11 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed PHIL2080 or COMP2620 ."
+        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed PHIL2080 or COMP2620 .",
+        "relative spec": [
+            "Artificial Intelligence",
+            "Computational Foundations"
+        ]
     },
     {
         "code": "COMP6300",
@@ -135,7 +151,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing or completed or currently studying COMP6700 . Incompatible with COMP2300 , ENGN2219 and COMP6719 ."
+        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing or completed or currently studying COMP6700 . Incompatible with COMP2300 , ENGN2219 and COMP6719 .",
+        "relative spec": []
     },
     {
         "code": "COMP6310",
@@ -156,7 +173,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have completed ( COMP6300 or exemption) and ( COMP6700 or COMP6710 or exemption). You will not be able to enrol in the course if you have completed COMP2310 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed ( COMP6300 or exemption) and ( COMP6700 or COMP6710 or exemption). You will not be able to enrol in the course if you have completed COMP2310 .",
+        "relative spec": [
+            "Computer Systems"
+        ]
     },
     {
         "code": "COMP6320",
@@ -178,7 +198,11 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 , and have completed or be currently enrolled in COMP6262 . Incompatible with COMP3620 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 , and have completed or be currently enrolled in COMP6262 . Incompatible with COMP3620 .",
+        "relative spec": [
+            "Artificial Intelligence",
+            "Data Science"
+        ]
     },
     {
         "code": "COMP6330",
@@ -194,7 +218,10 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing or be enrolled in or completed COMP6300 . Incompatible with COMP3300 ."
+        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing or be enrolled in or completed COMP6300 . Incompatible with COMP3300 .",
+        "relative spec": [
+            "Computer Systems"
+        ]
     },
     {
         "code": "COMP6331",
@@ -212,7 +239,11 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 or COMP6310 or COMP6442 .   Incompatible with COMP3310 , ENGN3539 , ENGN6539 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 or COMP6310 or COMP6442 .   Incompatible with COMP3310 , ENGN3539 , ENGN6539 .",
+        "relative spec": [
+            "Computer Systems",
+            "Professional Computing"
+        ]
     },
     {
         "code": "COMP6340",
@@ -233,7 +264,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed COMP2410 . Students enrolled in the Master of Cyber Security, Strategy & Risk Management must contact CECS Student Services to request a permission code for the course."
+        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed COMP2410 . Students enrolled in the Master of Cyber Security, Strategy & Risk Management must contact CECS Student Services to request a permission code for the course.",
+        "relative spec": [
+            "Professional Computing"
+        ]
     },
     {
         "code": "COMP6361",
@@ -248,7 +282,11 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must have successfully completed COMP6710 and COMP6260 ; or be enrolled in Master of Computing (Advanced)"
+        "requisite and incompatibility": "To enrol in this course you must have successfully completed COMP6710 and COMP6260 ; or be enrolled in Master of Computing (Advanced)",
+        "relative spec": [
+            "Computer Systems",
+            "Computational Foundations"
+        ]
     },
     {
         "code": "COMP6363",
@@ -263,7 +301,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing. Incompatible with COMP3630 ."
+        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing. Incompatible with COMP3630 .",
+        "relative spec": [
+            "Computational Foundations"
+        ]
     },
     {
         "code": "COMP6390",
@@ -285,7 +326,10 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must be studying Master of Computing or have completed COMP6442 . Incompatible with COMP3900 ."
+        "requisite and incompatibility": "To enrol in this course you must be studying Master of Computing or have completed COMP6442 . Incompatible with COMP3900 .",
+        "relative spec": [
+            "Human-Centred and Creative Computing"
+        ]
     },
     {
         "code": "COMP6420",
@@ -299,7 +343,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have successfully completed COMP6710 .  You are not able to enrol in this course if you have previously completed COMP2420 . Students enrolled in the Master of Cyber Security, Strategy & Risk Management must contact CECS Student Services to request a permission code for the course."
+        "requisite and incompatibility": "To enrol in this course you must have successfully completed COMP6710 .  You are not able to enrol in this course if you have previously completed COMP2420 . Students enrolled in the Master of Cyber Security, Strategy & Risk Management must contact CECS Student Services to request a permission code for the course.",
+        "relative spec": [
+            "Professional Computing"
+        ]
     },
     {
         "code": "COMP6442",
@@ -327,7 +374,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have either completed COMP6700 or COMP6710 ; and completed or currently be enrolled in MATH6005 or COMP6260 ; OR be enrolled in Master of Computing (Advanced).  Incompatible with COMP2100 ."
+        "requisite and incompatibility": "To enrol in this course you must have either completed COMP6700 or COMP6710 ; and completed or currently be enrolled in MATH6005 or COMP6260 ; OR be enrolled in Master of Computing (Advanced).  Incompatible with COMP2100 .",
+        "relative spec": []
     },
     {
         "code": "COMP6445",
@@ -341,7 +389,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Computing (Advanced). Incompatible with COMP4450"
+        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Computing (Advanced). Incompatible with COMP4450",
+        "relative spec": []
     },
     {
         "code": "COMP6464",
@@ -358,7 +407,10 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must  be studying Master of Computing or have successfully completed COMP6700 or COMP6710 ."
+        "requisite and incompatibility": "To enrol in this course you must  be studying Master of Computing or have successfully completed COMP6700 or COMP6710 .",
+        "relative spec": [
+            "Computer Systems"
+        ]
     },
     {
         "code": "COMP6466",
@@ -381,7 +433,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must  be studying Master of Computing or have successfully completed COMP6710 . You are not able to enrol in this course if you have successfully completed COMP3600 ."
+        "requisite and incompatibility": "To enrol in this course you must  be studying Master of Computing or have successfully completed COMP6710 . You are not able to enrol in this course if you have successfully completed COMP3600 .",
+        "relative spec": [
+            "Computational Foundations"
+        ]
     },
     {
         "code": "COMP6470",
@@ -402,7 +457,8 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": ""
+        "requisite and incompatibility": "",
+        "relative spec": []
     },
     {
         "code": "COMP6490",
@@ -423,7 +479,11 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "You are not able to enrol in this course if you have successfully completed COMP4650 ."
+        "requisite and incompatibility": "You are not able to enrol in this course if you have successfully completed COMP4650 .",
+        "relative spec": [
+            "Data Science",
+            "Machine Learning"
+        ]
     },
     {
         "code": "COMP6528",
@@ -434,7 +494,10 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must be studying Master of Engineering or Master of Machine Learning and Computer Vision or Master of Computing (Advanced)"
+        "requisite and incompatibility": "To enrol in this course you must be studying Master of Engineering or Master of Machine Learning and Computer Vision or Master of Computing (Advanced)",
+        "relative spec": [
+            "Machine Learning"
+        ]
     },
     {
         "code": "COMP6540",
@@ -444,7 +507,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 .",
+        "relative spec": [
+            "Human-Centred and Creative Computing"
+        ]
     },
     {
         "code": "COMP6670",
@@ -458,7 +524,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have completed or be currently enrolled in COMP6710 OR COMP6730 . Incompatible with COMP3670 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed or be currently enrolled in COMP6710 OR COMP6730 . Incompatible with COMP3670 .",
+        "relative spec": [
+            "Machine Learning"
+        ]
     },
     {
         "code": "COMP6710",
@@ -485,7 +554,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed COMP6700 or COMP1110 or if you are enrolled in the Master of Computing (Advanced)."
+        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed COMP6700 or COMP1110 or if you are enrolled in the Master of Computing (Advanced).",
+        "relative spec": []
     },
     {
         "code": "COMP6715",
@@ -496,7 +566,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must:     - be enrolled in the Master of Computing or the Master of Computing (Advanced)     - have found project/supervisor; and     - have an approved 'Independent Study Contract'  You will need to contact CECS Student Services to obtain a permission code to enrol.  You will need to contact the School of Computing to request a permission code to enrol in this course."
+        "requisite and incompatibility": "To enrol in this course you must:     - be enrolled in the Master of Computing or the Master of Computing (Advanced)     - have found project/supervisor; and     - have an approved 'Independent Study Contract'  You will need to contact CECS Student Services to obtain a permission code to enrol.  You will need to contact the School of Computing to request a permission code to enrol in this course.",
+        "relative spec": []
     },
     {
         "code": "COMP6720",
@@ -519,7 +590,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "Incompatible with COMP1720"
+        "requisite and incompatibility": "Incompatible with COMP1720",
+        "relative spec": [
+            "Human-Centred and Creative Computing"
+        ]
     },
     {
         "code": "COMP6730",
@@ -546,7 +620,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed COMP1730 .  Incompatible with COMP7230 and COMP1040 ."
+        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed COMP1730 .  Incompatible with COMP7230 and COMP1040 .",
+        "relative spec": []
     },
     {
         "code": "COMP6780",
@@ -563,7 +638,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "Incompatible with COMP1710"
+        "requisite and incompatibility": "Incompatible with COMP1710",
+        "relative spec": []
     },
     {
         "code": "COMP8110",
@@ -584,7 +660,10 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing and have completed either COMP6700 or COMP6710 . You cannot enrol in this course if you've completed COMP3120 ."
+        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing and have completed either COMP6700 or COMP6710 . You cannot enrol in this course if you've completed COMP3120 .",
+        "relative spec": [
+            "Professional Computing"
+        ]
     },
     {
         "code": "COMP8260",
@@ -604,7 +683,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have either: completed COMP6250 (Professional Practice 1) and be enrolled in the Master of Computing; OR be enrolled in the Master of Computing (Advanced)."
+        "requisite and incompatibility": "To enrol in this course you must have either: completed COMP6250 (Professional Practice 1) and be enrolled in the Master of Computing; OR be enrolled in the Master of Computing (Advanced).",
+        "relative spec": []
     },
     {
         "code": "COMP8300",
@@ -620,7 +700,10 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must be studying a Graduate Diploma of Computing, Master of Computing, Master of Computing (Advanced), or Master of Machine Learning and Computer Vision. Incompatible with COMP4300 ."
+        "requisite and incompatibility": "To enrol in this course you must be studying a Graduate Diploma of Computing, Master of Computing, Master of Computing (Advanced), or Master of Machine Learning and Computer Vision. Incompatible with COMP4300 .",
+        "relative spec": [
+            "Computer Systems"
+        ]
     },
     {
         "code": "COMP8350",
@@ -630,7 +713,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 or COMP6720 .  Incompatible with COMP4350 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 or COMP6720 .  Incompatible with COMP4350 .",
+        "relative spec": [
+            "Human-Centred and Creative Computing"
+        ]
     },
     {
         "code": "COMP8410",
@@ -644,7 +730,10 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must have completed COMP7240 or COMP6240 or COMP2400 ; and COMP6730 or COMP7230 or COMP6710 .  Incompatible with COMP3420 and COMP3425 and COMP8400 and COMP8910 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP7240 or COMP6240 or COMP2400 ; and COMP6730 or COMP7230 or COMP6710 .  Incompatible with COMP3420 and COMP3425 and COMP8400 and COMP8910 .",
+        "relative spec": [
+            "Data Science"
+        ]
     },
     {
         "code": "COMP8420",
@@ -663,7 +752,12 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must have either completed COMP6670 OR (be enrolled in the Master of Applied Data Analytics and have completed 6 units of either COMP6710 or COMP6730 or COMP7230 )."
+        "requisite and incompatibility": "To enrol in this course you must have either completed COMP6670 OR (be enrolled in the Master of Applied Data Analytics and have completed 6 units of either COMP6710 or COMP6730 or COMP7230 ).",
+        "relative spec": [
+            "Data Science",
+            "Human-Centred and Creative Computing",
+            "Machine Learning"
+        ]
     },
     {
         "code": "COMP8430",
@@ -678,7 +772,10 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must have completed either COMP7230 , COMP6730 or COMP6710 ; AND COMP7240 or COMP6240 . Incompatible with COMP3430 . A permission code is needed to take this course in intensive mode."
+        "requisite and incompatibility": "To enrol in this course you must have completed either COMP7230 , COMP6730 or COMP6710 ; AND COMP7240 or COMP6240 . Incompatible with COMP3430 . A permission code is needed to take this course in intensive mode.",
+        "relative spec": [
+            "Data Science"
+        ]
     },
     {
         "code": "COMP8535",
@@ -689,7 +786,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must be studying Master of Engineering or Master of Machine Learning and Computer Vision or Master of Computing (Advanced)"
+        "requisite and incompatibility": "To enrol in this course you must be studying Master of Engineering or Master of Machine Learning and Computer Vision or Master of Computing (Advanced)",
+        "relative spec": []
     },
     {
         "code": "COMP8539",
@@ -700,7 +798,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have completed ENGN6528 or COMP6528 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed ENGN6528 or COMP6528 .",
+        "relative spec": []
     },
     {
         "code": "COMP8600",
@@ -722,7 +821,11 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must have completed COMP6670 OR    (either COMP6710 or COMP6730 or COMP7230 ) AND (either COMP8410 or COMP8910 ) AND ( STAT6039 ).  Incompatible with COMP4670 and COMP8960 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6670 OR    (either COMP6710 or COMP6730 or COMP7230 ) AND (either COMP8410 or COMP8910 ) AND ( STAT6039 ).  Incompatible with COMP4670 and COMP8960 .",
+        "relative spec": [
+            "Data Science",
+            "Machine Learning"
+        ]
     },
     {
         "code": "COMP8603",
@@ -734,7 +837,8 @@
         ],
         "units": 12.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Machine Learning and Computer Vision and have completed 24 units of the MMLCV program. You also need to have a signed 'Independent Study contract' with a supervisor before the start of the semester in which you plan to start your project.  You will need to contact the School of Computing to request a permission code to enrol in this course."
+        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Machine Learning and Computer Vision and have completed 24 units of the MMLCV program. You also need to have a signed 'Independent Study contract' with a supervisor before the start of the semester in which you plan to start your project.  You will need to contact the School of Computing to request a permission code to enrol in this course.",
+        "relative spec": []
     },
     {
         "code": "COMP8604",
@@ -746,7 +850,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Machine Learning and Computer Vision and have completed 24 units of the MMLCV program. You also need to have a signed 'Independent Study contract' with a supervisor before the start of the semester in which you plan to start your project.  You will need to contact the School of Computing to request a permission code to enrol in this course."
+        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Machine Learning and Computer Vision and have completed 24 units of the MMLCV program. You also need to have a signed 'Independent Study contract' with a supervisor before the start of the semester in which you plan to start your project.  You will need to contact the School of Computing to request a permission code to enrol in this course.",
+        "relative spec": []
     },
     {
         "code": "COMP8610",
@@ -756,7 +861,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must  be studying Master of Computing or have successfully completed COMP6700 or COMP6710 . You are not able to enrol in this course if you have successfully completed COMP4610 ."
+        "requisite and incompatibility": "To enrol in this course you must  be studying Master of Computing or have successfully completed COMP6700 or COMP6710 . You are not able to enrol in this course if you have successfully completed COMP4610 .",
+        "relative spec": [
+            "Human-Centred and Creative Computing"
+        ]
     },
     {
         "code": "COMP8620",
@@ -775,7 +883,11 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must have completed COMP6320 ; and be studying Master of Computing (7705), Master of Computing (7706) or Master of Machine Learning and Computer Vision (7720). Incompatible with COMP4620 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6320 ; and be studying Master of Computing (7705), Master of Computing (7706) or Master of Machine Learning and Computer Vision (7720). Incompatible with COMP4620 .",
+        "relative spec": [
+            "Artificial Intelligence",
+            "Data Science"
+        ]
     },
     {
         "code": "COMP8650",
@@ -793,7 +905,11 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must have completed COMP6670 Introduction to Machine Learning or COMP8600 Statistical Machine Learning. Incompatible with COMP4680 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6670 Introduction to Machine Learning or COMP8600 Statistical Machine Learning. Incompatible with COMP4680 .",
+        "relative spec": [
+            "Data Science",
+            "Machine Learning"
+        ]
     },
     {
         "code": "COMP8670",
@@ -811,7 +927,11 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must have successfully completed COMP2620 / COMP6262 or MATH3343 / MATH6203 ."
+        "requisite and incompatibility": "To enrol in this course you must have successfully completed COMP2620 / COMP6262 or MATH3343 / MATH6203 .",
+        "relative spec": [
+            "Artificial Intelligence",
+            "Computational Foundations"
+        ]
     },
     {
         "code": "COMP8691",
@@ -823,7 +943,10 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have completed COMP6320 . Incompatible with COMP4691 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6320 . Incompatible with COMP4691 .",
+        "relative spec": [
+            "Artificial Intelligence"
+        ]
     },
     {
         "code": "COMP8715",
@@ -845,7 +968,8 @@
         ],
         "units": 6.0,
         "classification": "Advanced",
-        "requisite and incompatibility": "To enrol in this course you must:      -be enrolled in the Master of Computing AND have successfully completed COMP8260 and COMP6442 , OR      -be enrolled in the Master of Machine Learning and Computer Vision AND have successfully completed: COMP6710 OR COMP6730 , AND COMP6250 OR COMP8260 . Incompatible with COMP8755 and COMP8830 ."
+        "requisite and incompatibility": "To enrol in this course you must:      -be enrolled in the Master of Computing AND have successfully completed COMP8260 and COMP6442 , OR      -be enrolled in the Master of Machine Learning and Computer Vision AND have successfully completed: COMP6710 OR COMP6730 , AND COMP6250 OR COMP8260 . Incompatible with COMP8755 and COMP8830 .",
+        "relative spec": []
     },
     {
         "code": "COMP8755",
@@ -859,7 +983,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must:  - be enrolled in the Master of Computing - have completed COMP8260 and COMP6442 - find a project/supervisor; and - have an approved 'Independent Study Contract' Incompatible with COMP8715 and COMP8830 .  You will need to contact the School of Computing to request a permission code to enrol in this course."
+        "requisite and incompatibility": "To enrol in this course you must:  - be enrolled in the Master of Computing - have completed COMP8260 and COMP6442 - find a project/supervisor; and - have an approved 'Independent Study Contract' Incompatible with COMP8715 and COMP8830 .  You will need to contact the School of Computing to request a permission code to enrol in this course.",
+        "relative spec": []
     },
     {
         "code": "COMP8800",
@@ -884,7 +1009,8 @@
         ],
         "units": 12.0,
         "classification": "Research",
-        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Computing (Advanced) and have completed COMP6442 , COMP8260 and COMP6445 .  You also need to have a signed 'Independent Study contract' with a supervisor before the start of the semester in which you plan to start your project.  You will need to contact the School of Computing to request a permission code to enrol in this course."
+        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Computing (Advanced) and have completed COMP6442 , COMP8260 and COMP6445 .  You also need to have a signed 'Independent Study contract' with a supervisor before the start of the semester in which you plan to start your project.  You will need to contact the School of Computing to request a permission code to enrol in this course.",
+        "relative spec": []
     },
     {
         "code": "COMP8820",
@@ -895,7 +1021,8 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": ""
+        "requisite and incompatibility": "",
+        "relative spec": []
     },
     {
         "code": "COMP8830",
@@ -907,7 +1034,8 @@
         ],
         "units": 12.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must    - be enrolled in the Master of Computing AND have successfully completed COMP8260 and COMP6442 , OR    - be enrolled in the Master of Machine Learning and Computer Vision AND have successfully completed: COMP6710 OR COMP6730 , AND COMP6250 OR COMP8260 OR ENGN6250 OR ENGN8260 . Incompatible with COMP8715 and COMP8755 .  You will need to undergo competitive entry to enrol in this course, please see CECS webpage for more information.  You will need to contact the School of Computing to request a permission code to enrol in this course."
+        "requisite and incompatibility": "To enrol in this course you must    - be enrolled in the Master of Computing AND have successfully completed COMP8260 and COMP6442 , OR    - be enrolled in the Master of Machine Learning and Computer Vision AND have successfully completed: COMP6710 OR COMP6730 , AND COMP6250 OR COMP8260 OR ENGN6250 OR ENGN8260 . Incompatible with COMP8715 and COMP8755 .  You will need to undergo competitive entry to enrol in this course, please see CECS webpage for more information.  You will need to contact the School of Computing to request a permission code to enrol in this course.",
+        "relative spec": []
     },
     {
         "code": "COMP8880",
@@ -917,6 +1045,9 @@
         ],
         "units": 6.0,
         "classification": "Transitional",
-        "requisite and incompatibility": "To enrol in this course you must have completed COMP6670 ; OR    (6 units of either COMP6710 or COMP6730 or COMP7230 ) and (either COMP8410 or COMP8910 ) and STAT6039 . Incompatible with COMP4880 and COMP8980 ."
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6670 ; OR    (6 units of either COMP6710 or COMP6730 or COMP7230 ) and (either COMP8410 or COMP8910 ) and STAT6039 . Incompatible with COMP4880 and COMP8980 .",
+        "relative spec": [
+            "Machine Learning"
+        ]
     }
 ]
