@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Make My Study Plan</title>
+    <style>
+        body {
+            margin: 0;
+            word-break: break-all;
+        }
+
+        #main {
+            width: calc(100vw - 40px);
+            height: calc(100vh - 20px);
+            margin: 10px 20px;
+
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 2fr 2fr 2fr 2fr;
+            gap: 10px;
+        }
+
+        #search {
+            grid-column: 1 / 2;
+            grid-row: 1 / 2;
+        }
+
+        #course-list {
+            grid-column: 1 / 2;
+            grid-row: 2 / 4;
+            overflow: auto;
+            border: 1px solid black;
+        }
+
+        .course {
+            display: flex;
+            flex-direction: row;
+            justify-content: left;
+            align-items: center;
+            gap: 10px;
+            cursor: pointer;
+            padding: 2px 20px;
+        }
+
+        .course:hover {
+            background-color: #ddd;
+        }
+
+        .course-code {
+            width: 100px;
+            flex-shrink: 0;
+        }
+
+        #constraint {
+            grid-column: 2 / 3;
+            grid-row: 1 / 2;
+            background-color: red;
+        }
+
+        #study-plan {
+            grid-column: 2 / 3;
+            grid-row: 2 / 6;
+            background-color: blue;
+        }
+
+        #course-info {
+            grid-column: 1 / 2;
+            grid-row: 4 / 6;
+        }
+    </style>
+    <script>
+        const all_data = {
+            all_courses: [],
+            show_courses: [],
+            search_word: "",
+            select_code: ""
+        };
+
+        const select_course = (el) => {
+            all_data.select_code = el.querySelector(".course-code").innerHTML;
+            let d = all_data.all_courses.find(d => d.code == all_data.select_code);
+
+            let element = document.body.querySelector("#course-info");
+            let innerHTML = "";
+            for (let k of Object.keys(d)) {
+                let v = d[k];
+                if (k == "terms") v = v.join(" / ");
+                innerHTML += `<div class="course">
+                    <div class="course-code">${k}</div>
+                    <div class="course-name">${v}</div>
+                </div>`
+            }
+            element.innerHTML = innerHTML;
+        }
+
+        const get_all_data = () => {
+            fetch("3.json")
+                .then((res) => res.json())
+                .then((data) => {
+                    data = data.sort(function (a, b) { return a.code - b.code });
+                    all_data.all_courses = data;
+                    filter_courses();
+                })
+        }
+
+        const filter_courses = () => {
+            all_data.show_courses = all_data.all_courses.filter(d => {
+                if ((d.code + d.name).toLowerCase().indexOf(all_data.search_word.toLowerCase()) == -1)
+                    return false;
+                return true;
+            })
+
+            let element = document.body.querySelector("#course-list");
+            let innerHTML = "";
+
+            all_data.show_courses.forEach(d => {
+                innerHTML += `<div class="course" onclick="select_course(this)">
+                    <div class="course-code">${d.code}</div>
+                    <div class="course-name">${d.name}</div>
+                </div>`
+            })
+
+            element.innerHTML = innerHTML;
+
+        }
+
+        const search = () => {
+            all_data.search_word = document.body.querySelector("#search input").value;
+            filter_courses();
+        }
+
+        const test = () => {
+            console.log(all_data.show_courses)
+        }
+
+        get_all_data();
+    </script>
+</head>
+
+<body>
+    <div id="main">
+        <div id="search">
+            <input type="text" oninput="search()">
+            <button onclick="test()">test</button>
+        </div>
+
+        <div id="course-list"></div>
+
+        <div id="study-plan"></div>
+
+        <div id="constraint"></div>
+
+        <div id="course-info"></div>
+    </div>
+</body>
+
+</html>

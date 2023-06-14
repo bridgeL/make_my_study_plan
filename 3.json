@@ -1,282 +1,7 @@
 [
     {
-        "code": "COMP6445",
-        "name": "Advanced Computing Research Methods",
-        "terms": [
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8620",
-        "name": "Advanced Topics in Artificial intelligence",
-        "terms": [
-            "Sem 2 2010",
-            "Sem 2 2011",
-            "Sem 2 2012",
-            "Sem 2 2015",
-            "Sem 2 2017",
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP8539",
-        "name": "Advanced Topics in Computer Vision",
-        "terms": [
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8670",
-        "name": "Advanced Topics in Logic and Computation",
-        "terms": [
-            "Sem 2 2010",
-            "Sem 2 2011",
-            "Sem 2 2012",
-            "Sem 2 2013",
-            "Sem 2 2015",
-            "Sem 2 2017",
-            "Sem 2 2019",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP8650",
-        "name": "Advanced Topics in Machine Learning",
-        "terms": [
-            "Sem 1 2019",
-            "Sem 2 2012",
-            "Sem 2 2014",
-            "Sem 2 2016",
-            "Sem 2 2018",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP6466",
-        "name": "Algorithms",
-        "terms": [
-            "Sem 2 2010",
-            "Sem 2 2011",
-            "Sem 2 2012",
-            "Sem 2 2013",
-            "Sem 2 2014",
-            "Sem 2 2015",
-            "Sem 2 2016",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6720",
-        "name": "Art and Interaction Computing",
-        "terms": [
-            "Sem 2 2010",
-            "Sem 2 2011",
-            "Sem 2 2012",
-            "Sem 2 2013",
-            "Sem 2 2014",
-            "Sem 2 2015",
-            "Sem 2 2016",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6320",
-        "name": "Artificial Intelligence",
-        "terms": [
-            "Sem 1 2010",
-            "Sem 1 2011",
-            "Sem 1 2012",
-            "Sem 1 2013",
-            "Sem 1 2014",
-            "Sem 1 2015",
-            "Sem 1 2016",
-            "Sem 1 2017",
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP8880",
-        "name": "Computational Methods for Network Science",
-        "terms": [
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8610",
-        "name": "Computer Graphics",
-        "terms": [
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6331",
-        "name": "Computer Networks",
-        "terms": [
-            "Sem 1 2010",
-            "Sem 1 2012",
-            "Sem 1 2014",
-            "Sem 1 2016",
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6300",
-        "name": "Computer Organisation and Program Execution",
-        "terms": [
-            "Sem 1 2010",
-            "Sem 1 2011",
-            "Sem 1 2012",
-            "Sem 1 2013",
-            "Sem 1 2014",
-            "Sem 1 2015",
-            "Sem 1 2016",
-            "Sem 1 2017",
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6528",
-        "name": "Computer Vision",
-        "terms": [
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP8830",
-        "name": "Computing Internship",
-        "terms": [
-            "Sem 1 2023",
-            "Sem 2 2018",
-            "Sem 2 2023"
-        ],
-        "units": 12.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8715",
-        "name": "Computing Project",
-        "terms": [
-            "Sem 1 2015",
-            "Sem 1 2016",
-            "Sem 1 2018",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023",
-            "Sem 2 2015",
-            "Sem 2 2016",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP8800",
-        "name": "Computing Research Project",
-        "terms": [
-            "Sem 1 2013",
-            "Sem 1 2014",
-            "Sem 1 2015",
-            "Sem 1 2016",
-            "Sem 1 2017",
-            "Sem 1 2018",
-            "Sem 1 2023",
-            "Sem 2 2011",
-            "Sem 2 2012",
-            "Sem 2 2013",
-            "Sem 2 2014",
-            "Sem 2 2015",
-            "Sem 2 2016",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2023"
-        ],
-        "units": 12.0,
-        "classification": "Research"
-    },
-    {
-        "code": "COMP8410",
-        "name": "Data Mining",
-        "terms": [
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP8430",
-        "name": "Data Wrangling",
+        "code": "COMP6120",
+        "name": "Software Engineering",
         "terms": [
             "Sem 2 2018",
             "Sem 2 2019",
@@ -286,374 +11,8 @@
             "Sem 2 2023"
         ],
         "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP6490",
-        "name": "Document Analysis",
-        "terms": [
-            "Sem 2 2012",
-            "Sem 2 2013",
-            "Sem 2 2014",
-            "Sem 2 2015",
-            "Sem 2 2016",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP8535",
-        "name": "Engineering Data Analytics",
-        "terms": [
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8820",
-        "name": "Exchange Program for Graduate Students in Computer Science",
-        "terms": [
-            "Sem 1 2023",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6260",
-        "name": "Foundations of Computing",
-        "terms": [
-            "Sem 2 2013",
-            "Sem 2 2014",
-            "Sem 2 2015",
-            "Sem 2 2016",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6540",
-        "name": "Game Development",
-        "terms": [
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6464",
-        "name": "High Performance Scientific Computing",
-        "terms": [
-            "Sem 1 2010",
-            "Sem 1 2012",
-            "Sem 1 2014",
-            "Sem 1 2016",
-            "Sem 1 2018",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP6390",
-        "name": "Human-Computer Interaction",
-        "terms": [
-            "Sem 2 2010",
-            "Sem 2 2012",
-            "Sem 2 2013",
-            "Sem 2 2014",
-            "Sem 2 2015",
-            "Sem 2 2016",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP8755",
-        "name": "Individual Computing Project",
-        "terms": [
-            "Sem 1 2018",
-            "Sem 1 2023",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6261",
-        "name": "Information Theory",
-        "terms": [
-            "Sem 2 2014",
-            "Sem 2 2015",
-            "Sem 2 2016",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2019",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6420",
-        "name": "Introduction to Data Management, Analysis and Security",
-        "terms": [
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6670",
-        "name": "Introduction to Machine Learning",
-        "terms": [
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6262",
-        "name": "Logic",
-        "terms": [
-            "Sem 1 2014",
-            "Sem 1 2015",
-            "Sem 1 2016",
-            "Sem 1 2017",
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8110",
-        "name": "Managing Software Projects in a System Context",
-        "terms": [
-            "Sem 1 2017",
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023",
-            "Sem 2 2010",
-            "Sem 2 2011",
-            "Sem 2 2012",
-            "Sem 2 2013",
-            "Sem 2 2014",
-            "Sem 2 2016"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP6340",
-        "name": "Networked Information Systems",
-        "terms": [
-            "Sem 1 2011",
-            "Sem 1 2012",
-            "Sem 1 2013",
-            "Sem 1 2014",
-            "Sem 1 2015",
-            "Sem 1 2016",
-            "Sem 1 2017",
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8420",
-        "name": "Neural Networks, Deep Learning and Bio-inspired Computing",
-        "terms": [
-            "Sem 1 2011",
-            "Sem 1 2012",
-            "Sem 1 2013",
-            "Sem 1 2014",
-            "Sem 1 2016",
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 2 2010",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP6330",
-        "name": "Operating Systems Implementation",
-        "terms": [
-            "Sem 2 2010",
-            "Sem 2 2012",
-            "Sem 2 2014",
-            "Sem 2 2016",
-            "Sem 2 2018",
-            "Sem 2 2020",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP8691",
-        "name": "Optimisation",
-        "terms": [
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8300",
-        "name": "Parallel Systems",
-        "terms": [
-            "Sem 1 2011",
-            "Sem 1 2013",
-            "Sem 1 2015",
-            "Sem 1 2017",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP6361",
-        "name": "Principles of Programming Languages",
-        "terms": [
-            "Sem 2 2013",
-            "Sem 2 2015",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2021",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Advanced"
-    },
-    {
-        "code": "COMP6250",
-        "name": "Professional Practice 1",
-        "terms": [
-            "Sem 1 2017",
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8260",
-        "name": "Professional Practice 2",
-        "terms": [
-            "Sem 1 2017",
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2023",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6730",
-        "name": "Programming for Scientists",
-        "terms": [
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
-            "Sem 1 2022",
-            "Sem 1 2023",
-            "Sem 2 2011",
-            "Sem 2 2012",
-            "Sem 2 2013",
-            "Sem 2 2014",
-            "Sem 2 2015",
-            "Sem 2 2016",
-            "Sem 2 2017",
-            "Sem 2 2018",
-            "Sem 2 2019",
-            "Sem 2 2020",
-            "Sem 2 2021",
-            "Sem 2 2022",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP6715",
-        "name": "Project Work in Computing",
-        "terms": [
-            "Sem 1 2023",
-            "Sem 2 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have successfully completed or be currently studying COMP6442 - Software Construction. Incompatible with COMP2120 - Software Engineering."
     },
     {
         "code": "COMP6240",
@@ -675,29 +34,272 @@
             "Sem 2 2023"
         ],
         "units": 6.0,
-        "classification": "Transitional"
+        "classification": "Transitional",
+        "requisite and incompatibility": "You are not able to enrol in this course if you have successfully completed COMP2400 . Incompatible with COMP7240 ."
     },
     {
-        "code": "COMP8603",
-        "name": "Research Project",
+        "code": "COMP6250",
+        "name": "Professional Practice 1",
         "terms": [
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
             "Sem 1 2022",
             "Sem 1 2023",
-            "Sem 2 2023"
-        ],
-        "units": 12.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8604",
-        "name": "Research Project",
-        "terms": [
-            "Sem 1 2022",
-            "Sem 1 2023",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
             "Sem 2 2023"
         ],
         "units": 6.0,
-        "classification": "Transitional"
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must be studying the Master of Computing or Master of Machine Learning and Computer Vision programs."
+    },
+    {
+        "code": "COMP6260",
+        "name": "Foundations of Computing",
+        "terms": [
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "Incompatible with COMP1600"
+    },
+    {
+        "code": "COMP6261",
+        "name": "Information Theory",
+        "terms": [
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "You cannot enrol in this course if you have completed COMP2610 or ENGN8534 ."
+    },
+    {
+        "code": "COMP6262",
+        "name": "Logic",
+        "terms": [
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed PHIL2080 or COMP2620 ."
+    },
+    {
+        "code": "COMP6300",
+        "name": "Computer Organisation and Program Execution",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing or completed or currently studying COMP6700 . Incompatible with COMP2300 , ENGN2219 and COMP6719 ."
+    },
+    {
+        "code": "COMP6310",
+        "name": "Systems, Networks and Concurrency",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have completed ( COMP6300 or exemption) and ( COMP6700 or COMP6710 or exemption). You will not be able to enrol in the course if you have completed COMP2310 ."
+    },
+    {
+        "code": "COMP6320",
+        "name": "Artificial Intelligence",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 , and have completed or be currently enrolled in COMP6262 . Incompatible with COMP3620 ."
+    },
+    {
+        "code": "COMP6330",
+        "name": "Operating Systems Implementation",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2012",
+            "Sem 2 2014",
+            "Sem 2 2016",
+            "Sem 2 2018",
+            "Sem 2 2020",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing or be enrolled in or completed COMP6300 . Incompatible with COMP3300 ."
+    },
+    {
+        "code": "COMP6331",
+        "name": "Computer Networks",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2012",
+            "Sem 1 2014",
+            "Sem 1 2016",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 or COMP6310 or COMP6442 .   Incompatible with COMP3310 , ENGN3539 , ENGN6539 ."
+    },
+    {
+        "code": "COMP6340",
+        "name": "Networked Information Systems",
+        "terms": [
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed COMP2410 . Students enrolled in the Master of Cyber Security, Strategy & Risk Management must contact CECS Student Services to request a permission code for the course."
+    },
+    {
+        "code": "COMP6361",
+        "name": "Principles of Programming Languages",
+        "terms": [
+            "Sem 2 2013",
+            "Sem 2 2015",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2021",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": ".To enrol in this course you must have successfully completed COMP6710 and COMP6260 ; or be enrolled in Master of Computing (Advanced)"
+    },
+    {
+        "code": "COMP6363",
+        "name": "Theory of Computation",
+        "terms": [
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2016",
+            "Sem 1 2018",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing. Incompatible with COMP3630 ."
+    },
+    {
+        "code": "COMP6390",
+        "name": "Human-Computer Interaction",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must be studying Master of Computing or have completed COMP6442 . Incompatible with COMP3900 ."
+    },
+    {
+        "code": "COMP6420",
+        "name": "Introduction to Data Management, Analysis and Security",
+        "terms": [
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have successfully completed COMP6710 .  You are not able to enrol in this course if you have previously completed COMP2420 . Students enrolled in the Master of Cyber Security, Strategy & Risk Management must contact CECS Student Services to request a permission code for the course."
     },
     {
         "code": "COMP6442",
@@ -724,12 +326,52 @@
             "Sem 2 2023"
         ],
         "units": 6.0,
-        "classification": "Transitional"
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have either completed COMP6700 or COMP6710 ; and completed or currently be enrolled in MATH6005 or COMP6260 ; OR be enrolled in Master of Computing (Advanced).  Incompatible with COMP2100 ."
     },
     {
-        "code": "COMP6120",
-        "name": "Software Engineering",
+        "code": "COMP6445",
+        "name": "Advanced Computing Research Methods",
         "terms": [
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Computing (Advanced). Incompatible with COMP4450"
+    },
+    {
+        "code": "COMP6464",
+        "name": "High Performance Scientific Computing",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2012",
+            "Sem 1 2014",
+            "Sem 1 2016",
+            "Sem 1 2018",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must  be studying Master of Computing or have successfully completed COMP6700 or COMP6710 ."
+    },
+    {
+        "code": "COMP6466",
+        "name": "Algorithms",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
             "Sem 2 2018",
             "Sem 2 2019",
             "Sem 2 2020",
@@ -738,16 +380,8 @@
             "Sem 2 2023"
         ],
         "units": 6.0,
-        "classification": "Transitional"
-    },
-    {
-        "code": "COMP8350",
-        "name": "Sound and Music Computing",
-        "terms": [
-            "Sem 1 2023"
-        ],
-        "units": 6.0,
-        "classification": "Transitional"
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must  be studying Master of Computing or have successfully completed COMP6710 . You are not able to enrol in this course if you have successfully completed COMP3600 ."
     },
     {
         "code": "COMP6470",
@@ -767,28 +401,64 @@
             "Sem 2 2022"
         ],
         "units": 6.0,
-        "classification": "Advanced"
+        "classification": "Advanced",
+        "requisite and incompatibility": ""
     },
     {
-        "code": "COMP8600",
-        "name": "Statistical Machine Learning",
+        "code": "COMP6490",
+        "name": "Document Analysis",
         "terms": [
-            "Sem 1 2010",
-            "Sem 1 2011",
-            "Sem 1 2012",
-            "Sem 1 2013",
-            "Sem 1 2014",
-            "Sem 1 2015",
-            "Sem 1 2016",
-            "Sem 1 2017",
-            "Sem 1 2018",
-            "Sem 1 2019",
-            "Sem 1 2021",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "You are not able to enrol in this course if you have successfully completed COMP4650 ."
+    },
+    {
+        "code": "COMP6528",
+        "name": "Computer Vision",
+        "terms": [
             "Sem 1 2022",
             "Sem 1 2023"
         ],
         "units": 6.0,
-        "classification": "Advanced"
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must be studying Master of Engineering or Master of Machine Learning and Computer Vision or Master of Computing (Advanced)"
+    },
+    {
+        "code": "COMP6540",
+        "name": "Game Development",
+        "terms": [
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 ."
+    },
+    {
+        "code": "COMP6670",
+        "name": "Introduction to Machine Learning",
+        "terms": [
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have completed or be currently enrolled in COMP6710 OR COMP6730 . Incompatible with COMP3670 ."
     },
     {
         "code": "COMP6710",
@@ -814,13 +484,26 @@
             "Sem 2 2023"
         ],
         "units": 6.0,
-        "classification": "Transitional"
+        "classification": "Transitional",
+        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed COMP6700 or COMP1110 or if you are enrolled in the Master of Computing (Advanced)."
     },
     {
-        "code": "COMP6310",
-        "name": "Systems, Networks and Concurrency",
+        "code": "COMP6715",
+        "name": "Project Work in Computing",
+        "terms": [
+            "Sem 1 2023",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must:     - be enrolled in the Master of Computing or the Master of Computing (Advanced)     - have found project/supervisor; and     - have an approved 'Independent Study Contract'  You will need to contact CECS Student Services to obtain a permission code to enrol.  You will need to contact the School of Computing to request a permission code to enrol in this course."
+    },
+    {
+        "code": "COMP6720",
+        "name": "Art and Interaction Computing",
         "terms": [
             "Sem 2 2010",
+            "Sem 2 2011",
             "Sem 2 2012",
             "Sem 2 2013",
             "Sem 2 2014",
@@ -829,26 +512,41 @@
             "Sem 2 2017",
             "Sem 2 2018",
             "Sem 2 2019",
+            "Sem 2 2020",
             "Sem 2 2021",
             "Sem 2 2022",
             "Sem 2 2023"
         ],
         "units": 6.0,
-        "classification": "Transitional"
+        "classification": "Transitional",
+        "requisite and incompatibility": "Incompatible with COMP1720"
     },
     {
-        "code": "COMP6363",
-        "name": "Theory of Computation",
+        "code": "COMP6730",
+        "name": "Programming for Scientists",
         "terms": [
-            "Sem 1 2011",
-            "Sem 1 2012",
-            "Sem 1 2013",
-            "Sem 1 2016",
             "Sem 1 2018",
-            "Sem 1 2023"
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
         ],
         "units": 6.0,
-        "classification": "Transitional"
+        "classification": "Transitional",
+        "requisite and incompatibility": "You are not able to enrol in this course if you have previously completed COMP1730 .  Incompatible with COMP7230 and COMP1040 ."
     },
     {
         "code": "COMP6780",
@@ -864,6 +562,361 @@
             "Sem 2 2022"
         ],
         "units": 6.0,
-        "classification": "Transitional"
+        "classification": "Transitional",
+        "requisite and incompatibility": "Incompatible with COMP1710"
+    },
+    {
+        "code": "COMP8110",
+        "name": "Managing Software Projects in a System Context",
+        "terms": [
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2016"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must be studying a Master of Computing and have completed either COMP6700 or COMP6710 . You cannot enrol in this course if you've completed COMP3120 ."
+    },
+    {
+        "code": "COMP8260",
+        "name": "Professional Practice 2",
+        "terms": [
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2023",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have either: completed COMP6250 (Professional Practice 1) and be enrolled in the Master of Computing; OR be enrolled in the Master of Computing (Advanced)."
+    },
+    {
+        "code": "COMP8300",
+        "name": "Parallel Systems",
+        "terms": [
+            "Sem 1 2011",
+            "Sem 1 2013",
+            "Sem 1 2015",
+            "Sem 1 2017",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must be studying a Graduate Diploma of Computing, Master of Computing, Master of Computing (Advanced), or Master of Machine Learning and Computer Vision. Incompatible with COMP4300 ."
+    },
+    {
+        "code": "COMP8350",
+        "name": "Sound and Music Computing",
+        "terms": [
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6710 or COMP6720 .  Incompatible with COMP4350 ."
+    },
+    {
+        "code": "COMP8410",
+        "name": "Data Mining",
+        "terms": [
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP7240 or COMP6240 or COMP2400 ; and COMP6730 or COMP7230 or COMP6710 .  Incompatible with COMP3420 and COMP3425 and COMP8400 and COMP8910 ."
+    },
+    {
+        "code": "COMP8420",
+        "name": "Neural Networks, Deep Learning and Bio-inspired Computing",
+        "terms": [
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2016",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 2 2010",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must have either completed COMP6670 OR (be enrolled in the Master of Applied Data Analytics and have completed 6 units of either COMP6710 or COMP6730 or COMP7230 )."
+    },
+    {
+        "code": "COMP8430",
+        "name": "Data Wrangling",
+        "terms": [
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must have completed either COMP7230 , COMP6730 or COMP6710 ; AND COMP7240 or COMP6240 . Incompatible with COMP3430 . A permission code is needed to take this course in intensive mode."
+    },
+    {
+        "code": "COMP8535",
+        "name": "Engineering Data Analytics",
+        "terms": [
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must be studying Master of Engineering or Master of Machine Learning and Computer Vision or Master of Computing (Advanced)"
+    },
+    {
+        "code": "COMP8539",
+        "name": "Advanced Topics in Computer Vision",
+        "terms": [
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have completed ENGN6528 or COMP6528 ."
+    },
+    {
+        "code": "COMP8600",
+        "name": "Statistical Machine Learning",
+        "terms": [
+            "Sem 1 2010",
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6670 OR    (either COMP6710 or COMP6730 or COMP7230 ) AND (either COMP8410 or COMP8910 ) AND ( STAT6039 ).  Incompatible with COMP4670 and COMP8960 ."
+    },
+    {
+        "code": "COMP8603",
+        "name": "Research Project",
+        "terms": [
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2023"
+        ],
+        "units": 12.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Machine Learning and Computer Vision and have completed 24 units of the MMLCV program. You also need to have a signed 'Independent Study contract' with a supervisor before the start of the semester in which you plan to start your project.  You will need to contact the School of Computing to request a permission code to enrol in this course."
+    },
+    {
+        "code": "COMP8604",
+        "name": "Research Project",
+        "terms": [
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Machine Learning and Computer Vision and have completed 24 units of the MMLCV program. You also need to have a signed 'Independent Study contract' with a supervisor before the start of the semester in which you plan to start your project.  You will need to contact the School of Computing to request a permission code to enrol in this course."
+    },
+    {
+        "code": "COMP8610",
+        "name": "Computer Graphics",
+        "terms": [
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must  be studying Master of Computing or have successfully completed COMP6700 or COMP6710 . You are not able to enrol in this course if you have successfully completed COMP4610 ."
+    },
+    {
+        "code": "COMP8620",
+        "name": "Advanced Topics in Artificial intelligence",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2015",
+            "Sem 2 2017",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6320 ; and be studying Master of Computing (7705), Master of Computing (7706) or Master of Machine Learning and Computer Vision (7720). Incompatible with COMP4620 ."
+    },
+    {
+        "code": "COMP8650",
+        "name": "Advanced Topics in Machine Learning",
+        "terms": [
+            "Sem 1 2019",
+            "Sem 2 2012",
+            "Sem 2 2014",
+            "Sem 2 2016",
+            "Sem 2 2018",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6670 Introduction to Machine Learning or COMP8600 Statistical Machine Learning. Incompatible with COMP4680 ."
+    },
+    {
+        "code": "COMP8670",
+        "name": "Advanced Topics in Logic and Computation",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2015",
+            "Sem 2 2017",
+            "Sem 2 2019",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must have successfully completed COMP2620 / COMP6262 or MATH3343 / MATH6203 ."
+    },
+    {
+        "code": "COMP8691",
+        "name": "Optimisation",
+        "terms": [
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6320 . Incompatible with COMP4691 ."
+    },
+    {
+        "code": "COMP8715",
+        "name": "Computing Project",
+        "terms": [
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2018",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "To enrol in this course you must:      -be enrolled in the Master of Computing AND have successfully completed COMP8260 and COMP6442 , OR      -be enrolled in the Master of Machine Learning and Computer Vision AND have successfully completed: COMP6710 OR COMP6730 , AND COMP6250 OR COMP8260 . Incompatible with COMP8755 and COMP8830 ."
+    },
+    {
+        "code": "COMP8755",
+        "name": "Individual Computing Project",
+        "terms": [
+            "Sem 1 2018",
+            "Sem 1 2023",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must:  - be enrolled in the Master of Computing - have completed COMP8260 and COMP6442 - find a project/supervisor; and - have an approved 'Independent Study Contract' Incompatible with COMP8715 and COMP8830 .  You will need to contact the School of Computing to request a permission code to enrol in this course."
+    },
+    {
+        "code": "COMP8800",
+        "name": "Computing Research Project",
+        "terms": [
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2023",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2023"
+        ],
+        "units": 12.0,
+        "classification": "Research",
+        "requisite and incompatibility": "To enrol in this course you must be enrolled in the Master of Computing (Advanced) and have completed COMP6442 , COMP8260 and COMP6445 .  You also need to have a signed 'Independent Study contract' with a supervisor before the start of the semester in which you plan to start your project.  You will need to contact the School of Computing to request a permission code to enrol in this course."
+    },
+    {
+        "code": "COMP8820",
+        "name": "Exchange Program for Graduate Students in Computer Science",
+        "terms": [
+            "Sem 1 2023",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": ""
+    },
+    {
+        "code": "COMP8830",
+        "name": "Computing Internship",
+        "terms": [
+            "Sem 1 2023",
+            "Sem 2 2018",
+            "Sem 2 2023"
+        ],
+        "units": 12.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must    - be enrolled in the Master of Computing AND have successfully completed COMP8260 and COMP6442 , OR    - be enrolled in the Master of Machine Learning and Computer Vision AND have successfully completed: COMP6710 OR COMP6730 , AND COMP6250 OR COMP8260 OR ENGN6250 OR ENGN8260 . Incompatible with COMP8715 and COMP8755 .  You will need to undergo competitive entry to enrol in this course, please see CECS webpage for more information.  You will need to contact the School of Computing to request a permission code to enrol in this course."
+    },
+    {
+        "code": "COMP8880",
+        "name": "Computational Methods for Network Science",
+        "terms": [
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must have completed COMP6670 ; OR    (6 units of either COMP6710 or COMP6730 or COMP7230 ) and (either COMP8410 or COMP8910 ) and STAT6039 . Incompatible with COMP4880 and COMP8980 ."
     }
 ]
