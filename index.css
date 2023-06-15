@@ -3,7 +3,7 @@ body {
     word-break: break-word;
 }
 
-#export-plan{
+#export-plan {
     position: fixed;
     top: 20px;
     right: 20px;
@@ -91,6 +91,9 @@ body {
 #constraint {
     grid-column: 2 / 3;
     grid-row: 1 / 2;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    color: red;
 }
 
 #study-plan {

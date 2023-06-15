@@ -1,24 +1,19 @@
-let d = localStorage.getItem("all_data");
-
-if (!d) {
-    all_data = {
-        all_courses: [],
-        show_courses: [],
-        search_word: "",
-        select_code: "",
-        select_spec: "",
-        all_specs: [],
-        study_plan: ["COMP6710", "COMP6250", "", "", "COMP6442", "COMP8260", "", "", "COMP8715", "", "", "", "COMP8715", "", "", ""],
-        total_constraint: []
-    }
-}
-else {
-    all_data = JSON.parse(d);
+const all_data = {
+    all_courses: [],
+    show_courses: [],
+    search_word: "",
+    select_code: "",
+    select_spec: "",
+    all_specs: [],
+    study_plan: ["COMP6710", "COMP6250", "", "", "COMP6442", "COMP8260", "", "", "COMP8715", "", "", "", "COMP8715", "", "", ""],
+    total_constraint: [],
+    info_state: 0,
 }
 
-setInterval(() => {
-    localStorage.setItem("all_data", JSON.stringify(all_data));
-}, 1000);
+let d = localStorage.getItem("study_plan");
+if (d) all_data.study_plan = JSON.parse(d);
+
+
 
 const set_study_plan = (el) => {
     if (all_data.select_code) {
@@ -39,6 +34,7 @@ const set_study_plan = (el) => {
         }
         show_study_plan();
         check_study_plan();
+        localStorage.setItem("all_data", JSON.stringify(all_data.study_plan));
     }
 }
 
@@ -176,10 +172,13 @@ const show_course_info = () => {
 const select_course = (el) => {
     all_data.select_code = el.querySelector(".course-code").innerHTML;
     show_course_info();
+    all_data.info_state = 2;
 }
 
 const select_spec = (el) => {
-    if (all_data.select_spec == el.innerHTML) all_data.select_spec = "";
+    if (all_data.select_spec == el.innerHTML && all_data.info_state == 1) {
+        all_data.select_spec = "";
+    }
     else {
         all_data.select_spec = el.innerHTML;
         show_spec_info();
@@ -187,6 +186,7 @@ const select_spec = (el) => {
     show_all_specs();
     filter_courses();
     check_study_plan();
+    all_data.info_state = 1;
 }
 
 const get_course = (code) => {
@@ -218,7 +218,7 @@ const export_plan = () => {
 }
 
 const get_all_data = () => {
-    let p1 = fetch("3.json", {cache: "no-store"})
+    let p1 = fetch("3.json", { cache: "no-store" })
         .then((res) => res.json())
         .then((data) => {
             data = data.map(d => {
@@ -239,7 +239,7 @@ const get_all_data = () => {
             filter_courses();
         })
 
-    let p2 = fetch("4.json", {cache: "no-store"})
+    let p2 = fetch("4.json", { cache: "no-store" })
         .then((res) => res.json())
         .then((data) => {
             all_data.all_specs = data;
@@ -256,7 +256,7 @@ const get_all_data = () => {
             show_all_specs();
         })
 
-    let p3 = fetch("5.json", {cache: "no-store"})
+    let p3 = fetch("5.json", { cache: "no-store" })
         .then((res) => res.json())
         .then((data) => {
             all_data.total_constraint = data;
