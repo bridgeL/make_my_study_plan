@@ -1,11 +1,11 @@
-# Make My Study Plan
+# ANU Master of Computing Study Plan Helper
 
-As a postgraduate freshman in ANU, I develop this tool to help me make my 2-year study plan.
+Data are collected from the university's website. 
 
-Data are collected from the university's website. <b>I am sorry that I can't guarantee all of them are correct.</b>
+<b>Attention: The author can't guarantee all of them are correct.</b>
 
-Welcome to [ISSUE](https://github.com/bridgeL/make_my_study_plan/issues) if you have any problem or any idea about this tool.
+Welcome to [ISSUE](https://github.com/bridgeL/make_my_study_plan/issues) if any problem or any idea about this tool.
 
 ## How to Use
 
-open the page <del>[https://bridgel.github.io/make_my_study_plan/](https://bridgel.github.io/make_my_study_plan/)</del> (still developing)
+open the page [https://bridgel.github.io/make_my_study_plan/](https://bridgel.github.io/make_my_study_plan/)
