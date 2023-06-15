@@ -1,5 +1,93 @@
 [
     {
+        "code": "MATH6114",
+        "name": "Number Theory and Cryptography",
+        "terms": [
+            "Sem 2 2010",
+            "Sem 2 2011",
+            "Sem 2 2012",
+            "Sem 2 2013",
+            "Sem 2 2014",
+            "Sem 2 2015",
+            "Sem 2 2016",
+            "Sem 2 2017",
+            "Sem 2 2018",
+            "Sem 2 2019",
+            "Sem 2 2020",
+            "Sem 2 2021",
+            "Sem 2 2022",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "You are not able to enrol in this course if you have completed MATH3301. You will need to contact the Mathematical Sciences Institute to request a permission code to enrol in this course.",
+        "relative spec": [
+            "Computational Foundations"
+        ]
+    },
+    {
+        "code": "MATH6203",
+        "name": "Foundations of Mathematics(no offering)",
+        "terms": [
+            "Sem 1 2011",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022"
+        ],
+        "units": 6.0,
+        "classification": "Advanced",
+        "requisite and incompatibility": "You will need to contact the Mathematical Sciences Institute to request a permission code to enrol in this course.",
+        "relative spec": [
+            "Computational Foundations"
+        ]
+    },
+    {
+        "code": "ENGN6213",
+        "name": "Digital Systems and Microprocessors",
+        "terms": [
+            "Sem 1 2011",
+            "Sem 1 2012",
+            "Sem 1 2013",
+            "Sem 1 2014",
+            "Sem 1 2015",
+            "Sem 1 2016",
+            "Sem 1 2017",
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2020",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "To enrol in this course you must be studying Master of Engineering. Incompatible with ENGN3213.",
+        "relative spec": [
+            "Computer Systems"
+        ]
+    },
+    {
+        "code": "MATH6005",
+        "name": "Discrete Mathematical Models",
+        "terms": [
+            "Sem 1 2018",
+            "Sem 1 2019",
+            "Sem 1 2021",
+            "Sem 1 2022",
+            "Sem 1 2023",
+            "Sem 2 2023"
+        ],
+        "units": 6.0,
+        "classification": "Transitional",
+        "requisite and incompatibility": "CECS students must be enrolled in a Graduate Diploma of Computing or a Master of Computing to enrol in this course.",
+        "relative spec": []
+    },
+
+    {
         "code": "COMP6120",
         "name": "Software Engineering",
         "terms": [

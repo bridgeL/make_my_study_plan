@@ -21,7 +21,8 @@
                     "COMP8670"
                 ]
             }
-        ]
+        ],
+        "color":"#ef475d"
     },
     {
         "code": "CMSY",
@@ -57,7 +58,8 @@
                     "COMP8330"
                 ]
             }
-        ]
+        ],
+        "color":"#f9d770"
     },
     {
         "code": "COMP",
@@ -95,7 +97,8 @@
                     "MATH6203"
                 ]
             }
-        ]
+        ],
+        "color":"#f2cac9"
     },
     {
         "code": "DTSC",
@@ -131,7 +134,8 @@
                     "COMP8650"
                 ]
             }
-        ]
+        ],
+        "color":"#2376b7"
     },
     {
         "code": "HCCM",
@@ -169,7 +173,8 @@
                     "COMP8420"
                 ]
             }
-        ]
+        ],
+        "color":"#83cbac"
     },
     {
         "code": "MCHL",
@@ -199,7 +204,8 @@
                     "COMP6528"
                 ]
             }
-        ]
+        ],
+        "color":"#96c24e"
     },
     {
         "code": "PCOM",
@@ -223,7 +229,7 @@
             },
             {
                 "type": "min",
-                "num": 2,
+                "num": 1,
                 "range": [
                     "COMP6240",
                     "COMP6420"
@@ -231,12 +237,13 @@
             },
             {
                 "type": "min",
-                "num": 2,
+                "num": 1,
                 "range": [
                     "COMP6331",
                     "COMP6340"
                 ]
             }
-        ]
+        ],
+        "color":"#f97d1c"
     }
 ]
