@@ -15,6 +15,7 @@ open the page [https://bridgel.github.io/make_my_study_plan/](https://bridgel.gi
 - warning if you don't select enough courses that the program (Master of Computing) or Specialization requires.
 - quickly searching the information of each course
 - export the study plan into a csv file
+- warning if the course is not OFFERED in the semester you choose
 
 ## drawback
 
