@@ -9,3 +9,4 @@ Welcome to [ISSUE](https://github.com/bridgeL/make_my_study_plan/issues) if any 
 ## How to Use
 
 open the page [https://bridgel.github.io/make_my_study_plan/](https://bridgel.github.io/make_my_study_plan/)
+
