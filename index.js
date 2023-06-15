@@ -218,10 +218,7 @@ const export_plan = () => {
 }
 
 const get_all_data = () => {
-    let p1 = fetch("3.json", {
-        'pragma': 'no-cache',
-        'cache-control': 'no-cache'
-    })
+    let p1 = fetch("3.json", {cache: "no-store"})
         .then((res) => res.json())
         .then((data) => {
             data = data.map(d => {
@@ -242,10 +239,7 @@ const get_all_data = () => {
             filter_courses();
         })
 
-    let p2 = fetch("4.json", {
-        'pragma': 'no-cache',
-        'cache-control': 'no-cache'
-    })
+    let p2 = fetch("4.json", {cache: "no-store"})
         .then((res) => res.json())
         .then((data) => {
             all_data.all_specs = data;
@@ -262,10 +256,7 @@ const get_all_data = () => {
             show_all_specs();
         })
 
-    let p3 = fetch("5.json", {
-        'pragma': 'no-cache',
-        'cache-control': 'no-cache'
-    })
+    let p3 = fetch("5.json", {cache: "no-store"})
         .then((res) => res.json())
         .then((data) => {
             all_data.total_constraint = data;
