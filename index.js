@@ -24,7 +24,7 @@ const set_study_plan = (el) => {
         let flag = all_data.study_plan[j * 4 + i] == d.code;
 
         if (!flag && d.term.indexOf(`Sem ${s}`) == -1) {
-            if (!confirm("你确定吗？这学期似乎没有这门课")) return;
+            if (!confirm("Warning! It seems that this course wiil be offered in this semester!")) return;
         }
         if (flag) {
             all_data.study_plan[j * 4 + i] = "";
