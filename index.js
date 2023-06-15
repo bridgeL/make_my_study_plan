@@ -10,16 +10,17 @@ const all_data = {
     info_state: 0,
 }
 
-let d = localStorage.getItem("study_plan");
-if (d) all_data.study_plan = JSON.parse(d);
-
-
+const init = () => {
+    let d = localStorage.getItem("study_plan");
+    if (d) all_data.study_plan = JSON.parse(d);
+    get_all_data();
+}
 
 const set_study_plan = (el) => {
     if (all_data.select_code) {
         let i = Number(el.getAttribute("name"));
         let j = Number(el.parentElement.getAttribute("name"));
-        let d = all_data.all_courses.find(d => d.code == all_data.select_code);
+        let d = get_course(all_data.select_code);
         let s = j % 2 ? 1 : 2;
         let flag = all_data.study_plan[j * 4 + i] == d.code;
 
@@ -72,7 +73,7 @@ const show_study_plan = () => {
         let d = document.body.querySelector(`.study-plan-sem[name="${i}"]`);
         for (let j = 0; j < 4; j++) {
             let dd = d.querySelector(`[name="${j}"]`);
-            let ddd = all_data.all_courses.find(d => d.code == all_data.study_plan[i * 4 + j]);
+            let ddd = get_course(all_data.study_plan[i * 4 + j]);
             if (ddd) {
                 dd.innerHTML = `<div>${ddd.code}</div><div>${ddd.name}</div>`;
                 dd.style = `background-color:${ddd.color}`;
@@ -86,7 +87,7 @@ const show_study_plan = () => {
 }
 
 const show_spec_info = () => {
-    let d = all_data.all_specs.find(d => d.code == all_data.select_spec);
+    let d = get_spec(all_data.select_spec);
     let element = document.body.querySelector("#course-info");
     let innerHTML = "";
     for (let k of Object.keys(d)) {
@@ -132,7 +133,7 @@ const show_spec_info = () => {
 }
 
 const show_course_info = () => {
-    let d = all_data.all_courses.find(d => d.code == all_data.select_code);
+    let d = get_course(all_data.select_code);
     let element = document.body.querySelector("#course-info");
     let innerHTML = "";
     for (let k of Object.keys(d)) {
@@ -191,6 +192,10 @@ const select_spec = (el) => {
 
 const get_course = (code) => {
     return all_data.all_courses.find(d => d.code == code);
+}
+
+const get_spec = (code) => {
+    return all_data.all_specs.find(d => d.code == code);
 }
 
 const export_plan = () => {
@@ -286,7 +291,7 @@ const filter_courses = () => {
             return false;
 
         if (all_data.select_spec) {
-            let dd = all_data.all_specs.find(d => d.code == all_data.select_spec);
+            let dd = get_spec(all_data.select_spec);
             if (dd.courses.indexOf(d.code) == -1) return false;
         }
 
@@ -312,4 +317,4 @@ const search = () => {
     filter_courses();
 }
 
-get_all_data();
+init();
