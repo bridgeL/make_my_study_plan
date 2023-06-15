@@ -24,9 +24,7 @@ const set_study_plan = (el) => {
         let s = j % 2 ? 1 : 2;
         let flag = all_data.study_plan[j * 4 + i] == d.code;
 
-        if (!flag && d.term.indexOf(`Sem ${s}`) == -1) {
-            if (!confirm("Warning! It seems that this course wiil be offered in this semester!")) return;
-        }
+        if (!flag && d.term.indexOf(`Sem ${s}`) == -1) alert(`Warning! It seems that ${d.code} won't be offered in Sem ${s}!`);
         if (flag) {
             all_data.study_plan[j * 4 + i] = "";
         }
