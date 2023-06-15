@@ -34,7 +34,7 @@ const set_study_plan = (el) => {
         }
         show_study_plan();
         check_study_plan();
-        localStorage.setItem("all_data", JSON.stringify(all_data.study_plan));
+        localStorage.setItem("study_plan", JSON.stringify(all_data.study_plan));
     }
 }
 
